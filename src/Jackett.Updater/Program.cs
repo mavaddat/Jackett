@@ -356,6 +356,7 @@ namespace Jackett.Updater
                 "Definitions/cryptichaven.yml",
                 "Definitions/czteam.yml",
                 "Definitions/cztorrent.yml",
+                "Definitions/dajiao.yml",
                 "Definitions/danishbytes.yml", // migrated to C#
                 "Definitions/dariustracker.yml",
                 "Definitions/darktracker.yml",
@@ -706,6 +707,7 @@ namespace Jackett.Updater
                 "Definitions/topnow.yml",
                 "Definitions/torlook.yml",
                 "Definitions/toros.yml", // renamed to bulltorrent
+                "Definitions/torrent-explosiv.yml", // renamed to explosiv-world #6183
                 "Definitions/torrent9-tel.yml", // renamed to NorTorrent #15217
                 "Definitions/torrent911.yml", // renamed to oxtorrent-vip #15411
                 "Definitions/torrent9clone.yml", // renamed to torrent9-tel #15217
@@ -718,6 +720,8 @@ namespace Jackett.Updater
                 "Definitions/torrentgalaxyorg.yml", // renamed to torrentgalaxy
                 "Definitions/torrenthane.yml",
                 "Definitions/torrentkim.yml",
+                "Definitions/torrentland.yml",
+                "Definitions/torrentland-api.yml",
                 "Definitions/torrentmax.yml",
                 "Definitions/torrentparadise.yml",
                 "Definitions/torrentproject.yml",
@@ -731,6 +735,7 @@ namespace Jackett.Updater
                 "Definitions/torrentsurf.yml", // renamed xtremebytes #9951
                 "Definitions/torrentv.yml",
                 "Definitions/torrentvault.yml",
+                "Definitions/torrentview.yml",
                 "Definitions/torrentwal.yml",
                 "Definitions/torrentwhiz.yml",
                 "Definitions/torrentwtf.yml",
